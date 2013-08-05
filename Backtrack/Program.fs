@@ -1,6 +1,6 @@
-﻿open System;
-open System.Diagnostics;
-open System.IO;
+﻿open System
+open System.Diagnostics
+open System.IO
 
 /// Read the file in, creating an array of integers corresponding to the initial position
 /// for each sudoku.
